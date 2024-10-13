@@ -1,4 +1,4 @@
-# Welcome to the jsCalculator App!
+# Welcome to the iOS Calculator App!
 
 This calculator will look very familiar to you if you’ve ever used the calculator app on iPhone or macOS.
 
